@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "tutorial",
+"productVersion": "0.1",
+"dataUrl": "build_20200908_light.data.unityweb",
+"wasmCodeUrl": "build_20200908_light.wasm.code.unityweb",
+"wasmFrameworkUrl": "build_20200908_light.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#E49EC8",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
